@@ -33,10 +33,14 @@ everything, charcoal outlines with hard shadows and one sky-blue crayon for what
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Crayon**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Palette**. Install Borozdov Palette under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Crayon** under Style Settings → Borozdov Palette → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/crayon/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Crayon/`, then choose Borozdov Crayon under
 Settings → Appearance → Themes.
@@ -56,5 +60,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «День» — страница блокнота на
 кремовой бумаге, и тёмный «Ночник» — та же страница под настольной лампой. Моноширинный
 JetBrains Mono для всего, угольные контуры с жёсткими тенями, карандашные цвета в колаутах и
-один небесно-голубой для того, что вы нажимаете. Устанавливается из каталога: Настройки →
-Оформление → Темы → Настроить → Borozdov Crayon → Установить и применить.
+один небесно-голубой для того, что вы нажимаете. В каталоге тема живёт вариантом Borozdov Palette: установите Borozdov Palette и плагин Style Settings, затем выберите Crayon в Style Settings → Borozdov Palette → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
